@@ -7,7 +7,7 @@ I'm a fontend developer
 
 
 ## 🛠 Skills
-Javascript, css, html, SQL, Pseudocódigo, English B1 Level
+Javascript, CSS, HTML, SQL, Pseudocódigo and English B1 Level
 
 
 ## Other Common Github Profile Sections
