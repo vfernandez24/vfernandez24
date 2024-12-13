@@ -11,9 +11,9 @@ Javascript, CSS, HTML, SQL, Pseudocódigo and English B1 Level
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
+👩‍💻 I'm currently working on **byteZone**
 
-🧠 I'm currently learning SQL, Python and other languages
+🧠 I'm currently learning TypeScript, SQL, python and other languages
 
 💬 Ask me about future projects that we can made together
 
