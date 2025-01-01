@@ -1,7 +1,15 @@
 # Hi!, I'm Víctor
 
 # 💫 About Me:
-I'm currently studying<br>I'm frontent developer experienced with html, css and js<br>I like music
+Hello! My name is Víctor, and I'm a passionate frontend developer who thrives on creativity and innovation. I specialize in crafting beautiful and functional web interfaces using HTML, CSS, and JavaScript. 
+
+I'm currently deepening my knowledge and skills as I study and work on exciting projects. My goal is to continuously learn and grow as a developer, embracing challenges that push me to think outside the box.
+
+Beyond coding, I'm a music enthusiast who enjoys exploring different genres and finding inspiration in rhythm and melody. I believe that creativity in music often mirrors the creativity needed in design and development.
+
+In my free time, I like experimenting with tools like Figma and Canva to bring my ideas to life visually. I'm also fascinated by technology and how it shapes our world, which motivates me to stay updated with the latest trends in web development.
+
+Feel free to connect with me or check out my projects to see what I'm working on!
 
 
 # 💻 Tech Stack:
